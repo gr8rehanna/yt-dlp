@@ -459,6 +459,7 @@ class YoutubeBaseInfoExtractor(InfoExtractor):
         r'(?:www\.)?hpniueoejy4opn7bc4ftgazyqjoeqwlvh2uiku2xqku6zpoa4bf5ruid\.onion',
         # piped instances from https://github.com/TeamPiped/Piped/wiki/Instances
         r'(?:www\.)?piped\.kavin\.rocks',
+        r'(?:www\.)?piped\.nosebs\.ru', ## New added
         r'(?:www\.)?piped\.tokhmi\.xyz',
         r'(?:www\.)?piped\.syncpundit\.io',
         r'(?:www\.)?piped\.mha\.fi',
